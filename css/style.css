@@ -271,6 +271,14 @@ i {
   margin: 15px 0;
 }
 
+/* Privacy Policy */
+#privacy-policy{
+  background: #a9a9a9a9;
+  padding: 10px;
+  text-align: center;
+}
+
+
 /* Copyrights */
 
 #copyrights {
