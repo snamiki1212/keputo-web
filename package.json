@@ -1,0 +1,11 @@
+{
+  "name": "keputo-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts":{
+    "open": "open -a 'Google Chrome' index.html"
+  },
+  "repository": "git@github.com:snamiki1212/keputo-web.git",
+  "author": "snamiki1212 <snamiki1212@gmail.com>",
+  "license": "MIT"
+}
