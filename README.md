@@ -17,3 +17,6 @@
 - [keep](http://flat-icon-design.com/?p=438)
 - [problem](http://flat-icon-design.com/?p=211)
 - [try](http://flat-icon-design.com/?p=221)
+
+## LICENSE
+© 2019 Shun Namiki aka Nash
